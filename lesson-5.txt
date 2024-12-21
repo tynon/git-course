@@ -1,4 +1,12 @@
-1. Dom cơ bản gổm thẻ : html, head, body
+1. Dom cơ bản gổm thẻ : 
+<html>
+    <head>
+        <title>
+    <body>
+        <h1></h1>
+        <a>
+        <div></div>
+        <form></form>
 2. Cấu trúc html 1 bảng :
 <html>
     <head></head>
